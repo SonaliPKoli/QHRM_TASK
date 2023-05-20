@@ -9,6 +9,8 @@ Before running the project, make sure you have the following prerequisites insta
 
 .NET Core SDK - version 2.1 or later
 
+.NET runtime - version 6.0 or later
+
 SQL Server or SQL Server Express
 
 # Getting Started
