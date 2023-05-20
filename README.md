@@ -44,25 +44,25 @@ Here are some example requests using cURL:
 
 1.Get all product details:
 
-curl -X GET https://localhost:5001/api/products
+curl -X GET https://localhost:44365/api/products
 
 
 2.Get a specific product detail by ID:
 
-curl -X GET https://localhost:5001/api/products/1
+curl -X GET https://localhost:44365/api/products/1
 
 3.Add a new product:
 
-curl -X POST -H "Content-Type: application/json" -d '{"product_name":"New Product","product_price":9.99}' https://localhost:5001/api/products/add
+curl -X POST -H "Content-Type: application/json" -d '{"product_name":"New Product","product_price":9.99}' https://localhost:44365/api/products/add
 
 
 4.Update an existing product:
 
-curl -X POST -H "Content-Type: application/json" -d '{"id":1,"product_name":"Updated Product","product_price":19.99}' https://localhost:5001/api/products/update
+curl -X POST -H "Content-Type: application/json" -d '{"id":1,"product_name":"Updated Product","product_price":19.99}' https://localhost:44365/api/products/update
 
 5.Delete a product:
 
-curl -X POST -H "Content-Type: application/json" -d '{"productid":1}' https://localhost:5001/api/products/delete
+curl -X POST -H "Content-Type: application/json" -d '{"productid":1}' https://localhost:44365/api/products/delete
 
 
 # Conclusion
