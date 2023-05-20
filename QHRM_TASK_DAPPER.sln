@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QHRM_TASK_DAPPER", "QHRM_TASK_DAPPER\QHRM_TASK_DAPPER.csproj", "{6678157A-CB4D-4258-A80C-4E7154C6734D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6678157A-CB4D-4258-A80C-4E7154C6734D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6678157A-CB4D-4258-A80C-4E7154C6734D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6678157A-CB4D-4258-A80C-4E7154C6734D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6678157A-CB4D-4258-A80C-4E7154C6734D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B7E2A1D-1B4D-4A63-85D0-8BC407640DA1}
+	EndGlobalSection
+EndGlobal
