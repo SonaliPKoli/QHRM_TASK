@@ -16,11 +16,20 @@ SQL Server or SQL Server Express
 
   git clone https://github.com/SonaliPKoli/QHRM_TASK.git
   
+  
 2.Open the project in your preferred IDE or text editor.
 
-3.Create a database for the project in your SQL Server instance. You can use SQL Server Management Studio or any other database management tool of your choice. Remember the connection string for later use.
+3.Create a database for the project in your SQL Server instance. I used SQL Server Management Studio tool. Remember the connection string for later use.
+I have provided .bacpac file containing the db with the table, You can import it in the SSMS.
+Import the same in SSMS.
 
 4.Open the appsettings.json file in the project. Update the DefaultConnection connection string value with your SQL Server connection details.
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=**localhost**;Database=**YourDatabaseName**;Trusted_Connection=True;"
+  }
+}
+
 
 5.Build the project to restore the NuGet packages.
 
@@ -39,7 +48,7 @@ POST /api/products/delete - Deletes a product from the database by ID. Requires 
 
 **Note**: Replace localhost with the appropriate domain or IP address if running the project on a remote server.
 
-# Example Usage
+# Example Usage (if using through terminal)
 Here are some example requests using cURL:
 
 1.Get all product details:
