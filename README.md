@@ -1,4 +1,4 @@
-# QHRM_TASK_DAPPER - Products API
+# QHRM_TASK - Products API
 
 This is a simple ASP.NET project that provides an API for managing products using Dapper as the data access technology. 
 
