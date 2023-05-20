@@ -14,7 +14,7 @@ SQL Server or SQL Server Express
 # Getting Started
 1.Clone the repository or download the source code to your local machine.
 
-  git clone https://github.com/sonalipkoli/QHRM_TASK_DAPPER.git
+  git clone https://github.com/SonaliPKoli/QHRM_TASK_DAPPER.git
   
 2.Open the project in your preferred IDE or text editor.
 
