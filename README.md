@@ -20,10 +20,13 @@ SQL Server or SQL Server Express
 2.Open the project in your preferred IDE or text editor.
 
 3.Create a database for the project in your SQL Server instance. I used SQL Server Management Studio tool. Remember the connection string for later use.
+
 I have provided .bacpac file containing the db with the table, You can import it in the SSMS.
+
 Import the same in SSMS.
 
 4.Open the appsettings.json file in the project. Update the DefaultConnection connection string value with your SQL Server connection details.
+
 {
   "ConnectionStrings": {
     "DefaultConnection": "Server=**localhost**;Database=**YourDatabaseName**;Trusted_Connection=True;"
