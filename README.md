@@ -7,8 +7,6 @@ This readme file will guide you on how to run and use the project.
 # Prerequisites
 Before running the project, make sure you have the following prerequisites installed on your machine:
 
-.NET Core SDK - version 2.1 or later
-
 .NET runtime - version 6.0 or later
 
 SQL Server or SQL Server Express
