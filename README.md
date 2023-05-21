@@ -51,7 +51,29 @@ POST /api/products/delete - Deletes a product from the database by ID. Requires 
 
 **Note**: Replace localhost with the appropriate domain or IP address if running the project on a remote server.
 
+# **Output (Screenshots):**
+
+# Home
 ![image](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/652e3690-bed6-4a8f-a752-707804d268d7)
+
+# Details (initial)
+![Screenshot (68)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/cede9955-4d99-4f3a-b71b-ce52a5f6b50f)
+
+# Search By ID
+![Screenshot (65)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/96db23c1-4d36-4120-8a47-286fee980aca)
+
+# Add
+![Screenshot (63)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/d0a40860-c784-47e1-b0bd-85cf7ea39634)
+
+# Update
+![Screenshot (66)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/28e18729-bedd-4b38-bf4b-ebec5e30919d)
+
+# Delete
+![Screenshot (67)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/bbb58da8-eef8-4194-8f2c-3c3f4ad43217)
+
+# Details (after changes)
+![Screenshot (64)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/6149d30f-cec3-43fc-a02c-d0a9830c9495)
+
 
 # Conclusion
 This will help set up and run the QHRM_TASK_DAPPER project. You can now use the API endpoints to manage products in the database.
