@@ -51,31 +51,7 @@ POST /api/products/delete - Deletes a product from the database by ID. Requires 
 
 **Note**: Replace localhost with the appropriate domain or IP address if running the project on a remote server.
 
-# Example Usage (if using through terminal)
-Here are some example requests using cURL:
-
-1.Get all product details:
-
-curl -X GET https://localhost:44365/api/products
-
-
-2.Get a specific product detail by ID:
-
-curl -X GET https://localhost:44365/api/products/1
-
-3.Add a new product:
-
-curl -X POST -H "Content-Type: application/json" -d '{"product_name":"New Product","product_price":9.99}' https://localhost:44365/api/products/add
-
-
-4.Update an existing product:
-
-curl -X POST -H "Content-Type: application/json" -d '{"id":1,"product_name":"Updated Product","product_price":19.99}' https://localhost:44365/api/products/update
-
-5.Delete a product:
-
-curl -X POST -H "Content-Type: application/json" -d '{"productid":1}' https://localhost:44365/api/products/delete
-
+![image](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/652e3690-bed6-4a8f-a752-707804d268d7)
 
 # Conclusion
 This will help set up and run the QHRM_TASK_DAPPER project. You can now use the API endpoints to manage products in the database.
