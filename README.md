@@ -21,7 +21,7 @@ SQL Server or SQL Server Express
 
 3.Create a database for the project in your SQL Server instance. I used SQL Server Management Studio tool. Remember the connection string for later use.
 
-I have provided .bacpac file containing the db with the table, You can import it in the SSMS.
+I have provided .bacpac file containing the db with the table.
 
 Import the same in SSMS.
 
