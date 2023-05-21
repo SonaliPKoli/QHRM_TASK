@@ -23,15 +23,11 @@ SQL Server or SQL Server Express
 I have provided .bacpac file containing the db with the table, import the same in SSMS.
 
 4.Open the appsettings.json file in the project. Update the DefaultConnection connection string value with your SQL Server connection details.
-'''
+'''c#
 {
-
-  "ConnectionStrings": {
-  
-    "DefaultConnection": "Server=**localhost**;Database=**YourDatabaseName**;Trusted_Connection=True;"
-    
-  }
-  
+  "ConnectionStrings": {  
+    "DefaultConnection": "Server=**localhost**;Database=**YourDatabaseName**;Trusted_Connection=True;"    
+  }  
 }
 '''
 
