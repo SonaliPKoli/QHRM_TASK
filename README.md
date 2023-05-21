@@ -35,7 +35,7 @@ I have provided .bacpac file containing the db with the table, import the same i
 }
 
 
-5.Build the project to restore the NuGet packages.
+5.Build the project to restore the NuGet packages. (Dapper and SqlClient)
 
 # API Endpoints
 The project provides the following API endpoints:
