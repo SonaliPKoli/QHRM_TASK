@@ -58,7 +58,7 @@ POST /api/products/delete - Deletes a product from the database by ID. Requires 
 ![image](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/652e3690-bed6-4a8f-a752-707804d268d7)
 
 # Details (initial):
-![Screenshot (68)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/cede9955-4d99-4f3a-b71b-ce52a5f6b50f)
+![Screenshot (64)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/6149d30f-cec3-43fc-a02c-d0a9830c9495)
 
 # Search By ID:
 ![Screenshot (65)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/96db23c1-4d36-4120-8a47-286fee980aca)
@@ -73,7 +73,7 @@ POST /api/products/delete - Deletes a product from the database by ID. Requires 
 ![Screenshot (67)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/bbb58da8-eef8-4194-8f2c-3c3f4ad43217)
 
 # Details (after changes):
-![Screenshot (64)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/6149d30f-cec3-43fc-a02c-d0a9830c9495)
+![Screenshot (68)](https://github.com/SonaliPKoli/QHRM_TASK/assets/86517758/cede9955-4d99-4f3a-b71b-ce52a5f6b50f)
 
 
 # Conclusion
